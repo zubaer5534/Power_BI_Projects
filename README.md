@@ -9,7 +9,8 @@ Finally, I built an Interactive and Dynamic dashboard. I added additional pages 
 
 ### First page is for Topline Performance
 
-![image](https://github.com/zubaer5534/Power_BI_Project/assets/132324453/efd5a1d9-9d57-4880-8632-e395b38093eb)
+![Screenshot 2023-12-08 183930](https://github.com/zubaer5534/Power_BI_Project/assets/132324453/6c851dca-dea2-419a-b3a3-01e252aa3f40)
+
 
 ### First page is for Product Brand Details
 
