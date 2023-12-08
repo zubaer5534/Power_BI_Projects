@@ -12,6 +12,6 @@ Finally, I built an Interactive and Dynamic dashboard. I added additional pages 
 ![Screenshot 2023-12-08 183930](https://github.com/zubaer5534/Power_BI_Project/assets/132324453/6c851dca-dea2-419a-b3a3-01e252aa3f40)
 
 
-### First page is for Product Brand Details
+### Second page is for Product Brand Details
 
 ![Screenshot 2023-12-08 184003](https://github.com/zubaer5534/Power_BI_Project/assets/132324453/cc8daf7e-784b-4677-bd1f-f670896a9397)
