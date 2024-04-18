@@ -6,6 +6,8 @@ I undertook a comprehensive data analysis project, working with Maven Market dat
 Secondly, I made the relationship between the fact table and dimension table as a snowflake schema. Thirdly, I built 20+ DEX which allowed me to derive key metrics, perform advanced calculations, and generate meaningful insights from the data.
 Finally, I built an Interactive and Dynamic dashboard. I added additional pages to drill down Product Brand to Product Brand Details. 
 
+https://app.fabric.microsoft.com/view?r=eyJrIjoiNDJiODFkYzAtZDg4Mi00NTFhLTlhNDItZGU4ZTJiMzAzNTEzIiwidCI6ImFkZTRlZjZkLTQxZjEtNDAwZS1iNTNmLTBiMTU2YTU2NDQ3MiIsImMiOjEwfQ%3D%3D
+
 
 ### First page is for Topline Performance
 
