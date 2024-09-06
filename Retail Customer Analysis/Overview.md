@@ -2,11 +2,11 @@
 
 Thrilled to share the results of my latest project in Power BI, where I dove deep into understanding customer behavior and trends in the online retail industry.
 
-It was really exciting to visualize-
-🎯Monthly Cohort Performance 
-🎯Retention Rate
-🎯Churn Customers 
-🎯Churn Rate
+It was really exciting to visualize-<br>
+🎯Monthly Cohort Performance <br>
+🎯Retention Rate <br>
+🎯Churn Customers <br>
+🎯Churn Rate <br>
 Trends and many more. Eager to continue leveraging data-driven approaches like these to drive meaningful impact in the retail sector!
 
 Live Project: https://app.fabric.microsoft.com/view?r=eyJrIjoiNWUxMDQwZjctMTdkNi00NDZlLWE3YzgtYjQxMmRkNTM5OGE0IiwidCI6ImFkZTRlZjZkLTQxZjEtNDAwZS1iNTNmLTBiMTU2YTU2NDQ3MiIsImMiOjEwfQ%3D%3D
